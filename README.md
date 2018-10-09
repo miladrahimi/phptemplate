@@ -1,5 +1,5 @@
 # PHPTemplate
-Free PHP template engine for neat and powerful projects!
+A PHP template engine!
 
 ## Overview
 Modern application architectures follow user interface and logic segregation.
